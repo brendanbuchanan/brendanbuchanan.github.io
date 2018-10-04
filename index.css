@@ -1,0 +1,68 @@
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-gap: 20px;
+	
+}
+
+body {
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Product Sans', sans-serif;
+color: white;
+font-variant-position: center;	
+}
+
+h1 {
+font-family: 'Product Sans', sans-serif;
+color: white;
+}
+
+body {
+background-image: url("tropical0.jpg");
+background-repeat: no-repeat;
+background-size: 1840px
+s
+}
+
+#title {
+font-size: 48px;
+padding-left: 600px;
+}
+
+
+#pages {
+font-family: 'Product Sans', sans-serif;
+padding-left: 265px;
+padding-right: 265px;
+font-size: 30px;
+}
+
+#info {
+padding-top: 30px;
+padding-left: 300px;
+padding-right: 300px;
+font-size: 30px;
+}
+
+#currentoffers {
+padding-top: 50px;
+padding-left: 670px;
+font-size: 25px;
+
+}
+
+#offers  {
+padding-left: 150px;
+font-size: 50px;
+grid
+}
+
+body {
+
+}
+
+#home {
+	color: #a224cc;
+
+}
+
